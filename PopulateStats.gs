@@ -1,0 +1,34 @@
+var funCols = {
+    V_DELTA_LABEL: 0,
+    V_DELTA_DATA: 1,
+    V_DELTA_LABEL: 2,
+    V_DELTA_LABEL: 3,
+    V_DELTA_LABEL: 4,
+    V_DELTA_LABEL: 5,
+    V_DELTA_LABEL: 6,
+    V_DELTA_LABEL: 7,
+    V_DELTA_LABEL: 8,
+    V_DELTA_LABEL: 9,
+    V_DELTA_LABEL: 10,
+    V_DELTA_LABEL: 11,
+    V_DELTA_LABEL: 12,
+    V_DELTA_LABEL: 13,
+    V_DELTA_LABEL: 14,
+    V_DELTA_LABEL: 15,
+    V_DELTA_LABEL: 16,
+    V_DELTA_LABEL: 17,
+    V_DELTA_LABEL: 18,
+    V_DELTA_LABEL: 19,
+    V_DELTA_LABEL: 20,
+    V_DELTA_LABEL: 21,
+    V_DELTA_LABEL: 22,
+    V_DELTA_LABEL: 23,
+    V_DELTA_LABEL: 24,
+    V_DELTA_LABEL: 25,
+    V_DELTA_LABEL: 26,
+    V_DELTA_LABEL: 27,
+    V_DELTA_LABEL: 28}
+
+function myFunction() {
+  
+}
